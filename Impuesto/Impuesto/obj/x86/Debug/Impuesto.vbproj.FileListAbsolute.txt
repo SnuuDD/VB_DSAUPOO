@@ -1,0 +1,25 @@
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\Impuesto.Form1.resources
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\Impuesto.Resources.resources
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\bin\Debug\Impuesto.exe
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\bin\Debug\Impuesto.pdb
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\bin\Debug\Impuesto.xml
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\Impuesto.exe
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\Impuesto.xml
+C:\Users\Invitado\AppData\Local\Temporary Projects\Impuesto\obj\x86\Debug\Impuesto.pdb
+E:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.exe
+E:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.xml
+E:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.pdb
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.exe
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.xml
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.pdb
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\bin\Debug\Impuesto.exe
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\bin\Debug\Impuesto.pdb
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\bin\Debug\Impuesto.xml
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.Form1.resources
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\Impuesto.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Impuesto\Impuesto\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lavanderia", "Lavanderia\Lavanderia.vbproj", "{74D18039-AE8D-4CE3-AACF-D9CCD0FBC7E5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup SLE", "Setup SLE\Setup SLE.vdproj", "{A8F9F254-8F7A-4A39-A243-6BE1E645AC4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D18039-AE8D-4CE3-AACF-D9CCD0FBC7E5}.Debug|x86.ActiveCfg = Debug|x86
+		{74D18039-AE8D-4CE3-AACF-D9CCD0FBC7E5}.Debug|x86.Build.0 = Debug|x86
+		{74D18039-AE8D-4CE3-AACF-D9CCD0FBC7E5}.Release|x86.ActiveCfg = Release|x86
+		{74D18039-AE8D-4CE3-AACF-D9CCD0FBC7E5}.Release|x86.Build.0 = Release|x86
+		{A8F9F254-8F7A-4A39-A243-6BE1E645AC4A}.Debug|x86.ActiveCfg = Debug
+		{A8F9F254-8F7A-4A39-A243-6BE1E645AC4A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

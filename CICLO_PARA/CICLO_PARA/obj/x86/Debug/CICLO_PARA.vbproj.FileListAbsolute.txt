@@ -1,0 +1,11 @@
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\bin\Debug\CICLO_PARA.exe
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\bin\Debug\CICLO_PARA.pdb
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\bin\Debug\CICLO_PARA.xml
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\CICLO_PARA.Form1.resources
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\CICLO_PARA.Resources.resources
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\CICLO_PARA.exe
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\CICLO_PARA.xml
+E:\Programacion\CBTis\DSAUPOO\CICLO_PARA\CICLO_PARA\obj\x86\Debug\CICLO_PARA.pdb

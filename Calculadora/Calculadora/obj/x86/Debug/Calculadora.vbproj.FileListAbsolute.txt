@@ -1,0 +1,17 @@
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Frmcalculadora.resources
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.xml
+D:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+E:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.xml
+E:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+G:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+G:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.xml
+G:\Programacion\CBTis\DSAUPOO\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb

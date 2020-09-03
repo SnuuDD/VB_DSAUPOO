@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cuadrado de un numero">
+</Property><Property Name="Archivo de la solución" Value="D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Cuadrado de un numero.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Cuadrado de un numero.suo">
+</Property><Property Name="Date" Value="viernes, 04 de septiembre de 2015">
+</Property><Property Name="Time" Value="18:19 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cuadrado de un numero.sln" Description="La copia D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\Cuadrado de un numero.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Cuadrado de un numero.suo" Description="La copia D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\Cuadrado de un numero.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="Cuadrado de un numero.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\Cuadrado de un numero.vbproj">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="FrmCuadradoNum.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\FrmCuadradoNum.vb">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="FrmCuadradoNum.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\FrmCuadradoNum.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="FrmCuadradoNum.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\FrmCuadradoNum.resx">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="Cuadrado de un numero.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Cuadrado de un numero" Source="Cuadrado de un numero.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cuadrado de un numero.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Cuadrado de un numero.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cuadrado de un numero" Source="Cuadrado de un numero.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

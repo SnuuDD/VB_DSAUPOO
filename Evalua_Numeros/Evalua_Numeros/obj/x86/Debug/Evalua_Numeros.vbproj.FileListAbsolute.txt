@@ -1,0 +1,14 @@
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.Evalua_Numeros.resources
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.Resources.resources
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\bin\Debug\Evalua_Numeros.exe
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\bin\Debug\Evalua_Numeros.pdb
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\bin\Debug\Evalua_Numeros.xml
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.exe
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.xml
+E:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.pdb
+D:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.exe
+D:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.xml
+D:\Programacion\CBTis\DSAUPOO\Evalua_Numeros\Evalua_Numeros\obj\x86\Debug\Evalua_Numeros.pdb

@@ -1,0 +1,74 @@
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\bin\Debug\check box.exe
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\bin\Debug\check box.pdb
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\bin\Debug\check box.xml
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\obj\x86\Debug\check_box.Form1.resources
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\obj\x86\Debug\check_box.Resources.resources
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\obj\x86\Debug\check box.vbproj.GenerateResource.Cache
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\obj\x86\Debug\check box.exe
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\obj\x86\Debug\check box.xml
+c:\users\luis angel\documents\visual studio 2010\Projects\check box\check box\obj\x86\Debug\check box.pdb
+E:\check box\check box\obj\x86\Debug\check box.exe
+E:\check box\check box\obj\x86\Debug\check box.xml
+E:\check box\check box\obj\x86\Debug\check box.pdb
+E:\check box\check box\bin\Debug\check box.exe
+E:\check box\check box\bin\Debug\check box.pdb
+E:\check box\check box\bin\Debug\check box.xml
+E:\check box\check box\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\check box\check box\obj\x86\Debug\check_box.Form1.resources
+E:\check box\check box\obj\x86\Debug\check_box.Resources.resources
+E:\check box\check box\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\check box\check box\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ \check box\check box\obj\x86\Debug\check box.exe
+E:\ \check box\check box\obj\x86\Debug\check box.xml
+E:\ \check box\check box\obj\x86\Debug\check box.pdb
+E:\ \check box\check box\bin\Debug\check box.exe
+E:\ \check box\check box\bin\Debug\check box.pdb
+E:\ \check box\check box\bin\Debug\check box.xml
+E:\ \check box\check box\obj\x86\Debug\check_box.Form1.resources
+E:\ \check box\check box\obj\x86\Debug\check_box.Resources.resources
+F:\ \check box\check box\bin\Debug\check box.exe
+F:\ \check box\check box\bin\Debug\check box.pdb
+F:\ \check box\check box\bin\Debug\check box.xml
+F:\ \check box\check box\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \check box\check box\obj\x86\Debug\check_box.Form1.resources
+F:\ \check box\check box\obj\x86\Debug\check_box.Resources.resources
+F:\ \check box\check box\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \check box\check box\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \check box\check box\obj\x86\Debug\check box.exe
+F:\ \check box\check box\obj\x86\Debug\check box.xml
+F:\ \check box\check box\obj\x86\Debug\check box.pdb
+E:\ \check box\check box\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ \check box\check box\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ \check box\check box\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \check box\check box\obj\x86\Debug\check box.exe
+D:\ \check box\check box\obj\x86\Debug\check box.xml
+D:\ \check box\check box\obj\x86\Debug\check box.pdb
+D:\DSAUPOO\check box\check box\obj\x86\Debug\check box.exe
+D:\DSAUPOO\check box\check box\obj\x86\Debug\check box.xml
+D:\DSAUPOO\check box\check box\obj\x86\Debug\check box.pdb
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\check box.exe
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\check box.xml
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\check box.pdb
+C:\Users\AdministradorLC4\Desktop\check box\check box\bin\Debug\check box.exe
+C:\Users\AdministradorLC4\Desktop\check box\check box\bin\Debug\check box.pdb
+C:\Users\AdministradorLC4\Desktop\check box\check box\bin\Debug\check box.xml
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\check_box.Form1.resources
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\check_box.Resources.resources
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AdministradorLC4\Desktop\check box\check box\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.exe
+D:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.xml
+D:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.pdb
+G:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.exe
+G:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.xml
+G:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.pdb
+G:\Programacion\CBTis\DSAUPOO\check box\check box\bin\Debug\check box.exe
+G:\Programacion\CBTis\DSAUPOO\check box\check box\bin\Debug\check box.pdb
+G:\Programacion\CBTis\DSAUPOO\check box\check box\bin\Debug\check box.xml
+G:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check_box.Form1.resources
+G:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check_box.Resources.resources
+G:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.vbproj.GenerateResource.Cache
+E:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.exe
+E:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.xml
+E:\Programacion\CBTis\DSAUPOO\check box\check box\obj\x86\Debug\check box.pdb

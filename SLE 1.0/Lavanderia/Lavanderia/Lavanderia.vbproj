@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{74D18039-AE8D-4CE3-AACF-D9CCD0FBC7E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Lavanderia.My.MyApplication</StartupObject>
+    <RootNamespace>Lavanderia</RootNamespace>
+    <AssemblyName>Lavanderia</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Lavanderia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Lavanderia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>washing_machine_318_63182.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ALTASConcepto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTASConcepto.Designer.vb">
+      <DependentUpon>ALTASConcepto.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altas_Clientes.Designer.vb">
+      <DependentUpon>Altas_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Altas_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altas_Empleados.Designer.vb">
+      <DependentUpon>Altas_Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Altas_Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BAJASConcepto.Designer.vb">
+      <DependentUpon>BAJASConcepto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BAJASConcepto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bajas_Clientesvb.Designer.vb">
+      <DependentUpon>Bajas_Clientesvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bajas_Clientesvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bajas_Empleados.Designer.vb">
+      <DependentUpon>Bajas_Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bajas_Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Clientes.Designer.vb">
+      <DependentUpon>Consultas_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Concepto.Designer.vb">
+      <DependentUpon>Consultas_Concepto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Concepto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Empleados.Designer.vb">
+      <DependentUpon>Consultas_Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas_Servicio.Designer.vb">
+      <DependentUpon>Consultas_Servicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas_Servicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmenu.Designer.vb">
+      <DependentUpon>frmmenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmServicio_Altas.Designer.vb">
+      <DependentUpon>FrmServicio_Altas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmServicio_Altas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmServicio_Bajas.Designer.vb">
+      <DependentUpon>FrmServicio_Bajas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmServicio_Bajas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_Clientes.Designer.vb">
+      <DependentUpon>Modificar_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_Concepto.Designer.vb">
+      <DependentUpon>Modificar_Concepto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Concepto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_Empleados.Designer.vb">
+      <DependentUpon>Modificar_Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_Servicio.Designer.vb">
+      <DependentUpon>Modificar_Servicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Servicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ALTASConcepto.resx">
+      <DependentUpon>ALTASConcepto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altas_Clientes.resx">
+      <DependentUpon>Altas_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Altas_Empleados.resx">
+      <DependentUpon>Altas_Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BAJASConcepto.resx">
+      <DependentUpon>BAJASConcepto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bajas_Clientesvb.resx">
+      <DependentUpon>Bajas_Clientesvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bajas_Empleados.resx">
+      <DependentUpon>Bajas_Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Clientes.resx">
+      <DependentUpon>Consultas_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Concepto.resx">
+      <DependentUpon>Consultas_Concepto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Empleados.resx">
+      <DependentUpon>Consultas_Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas_Servicio.resx">
+      <DependentUpon>Consultas_Servicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmenu.resx">
+      <DependentUpon>frmmenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmServicio_Altas.resx">
+      <DependentUpon>FrmServicio_Altas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmServicio_Bajas.resx">
+      <DependentUpon>FrmServicio_Bajas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_Clientes.resx">
+      <DependentUpon>Modificar_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_Concepto.resx">
+      <DependentUpon>Modificar_Concepto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_Empleados.resx">
+      <DependentUpon>Modificar_Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_Servicio.resx">
+      <DependentUpon>Modificar_Servicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{00000205-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="washing_machine_318_63182.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

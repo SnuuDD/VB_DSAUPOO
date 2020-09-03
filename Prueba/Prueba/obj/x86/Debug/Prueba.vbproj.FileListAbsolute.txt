@@ -1,0 +1,14 @@
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\bin\Debug\Prueba.exe
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\bin\Debug\Prueba.pdb
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\bin\Debug\Prueba.xml
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.Frmprueba.resources
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.exe
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.xml
+D:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.pdb
+E:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.exe
+E:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.xml
+E:\Programacion\CBTis\DSAUPOO\Prueba\Prueba\obj\x86\Debug\Prueba.pdb

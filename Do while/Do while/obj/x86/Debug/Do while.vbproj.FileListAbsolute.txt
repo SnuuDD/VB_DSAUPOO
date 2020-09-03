@@ -1,0 +1,22 @@
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\bin\Debug\Do while.exe
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\bin\Debug\Do while.pdb
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\bin\Debug\Do while.xml
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\Do_while.Form1.resources
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\Do_while.Resources.resources
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\Do while.exe
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\Do while.xml
+C:\Users\Invitado\AppData\Local\Temporary Projects\Do while\obj\x86\Debug\Do while.pdb
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\Do while.exe
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\Do while.xml
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\Do while.pdb
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\bin\Debug\Do while.exe
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\bin\Debug\Do while.pdb
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\bin\Debug\Do while.xml
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\Do_while.Form1.resources
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\Do_while.Resources.resources
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Do while\Do while\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,12 @@
+D:\Clinica\Clinica\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Clinica\Clinica\obj\x86\Debug\Clinica.Form1.resources
+D:\Clinica\Clinica\obj\x86\Debug\Clinica.Resources.resources
+D:\Clinica\Clinica\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Clinica\Clinica\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Clinica\Clinica\obj\x86\Debug\Clinica.vbproj.ResolveComReference.cache
+D:\Clinica\Clinica\bin\Debug\Clinica.exe
+D:\Clinica\Clinica\bin\Debug\Clinica.pdb
+D:\Clinica\Clinica\bin\Debug\Clinica.xml
+D:\Clinica\Clinica\obj\x86\Debug\Clinica.exe
+D:\Clinica\Clinica\obj\x86\Debug\Clinica.xml
+D:\Clinica\Clinica\obj\x86\Debug\Clinica.pdb

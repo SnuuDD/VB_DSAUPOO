@@ -1,0 +1,133 @@
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.vbproj.ResolveComReference.cache
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Resources.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\bin\Debug\Lavanderia.exe
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\bin\Debug\Lavanderia.pdb
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\bin\Debug\Lavanderia.xml
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.exe
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.xml
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.pdb
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.vbproj.ResolveComReference.cache
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.exe
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.xml
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.pdb
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\bin\Debug\Lavanderia.exe
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\bin\Debug\Lavanderia.pdb
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\bin\Debug\Lavanderia.xml
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.ALTASConcepto.resources
+D:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.BAJASConcepto.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.ALTASConcepto.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.BAJASConcepto.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Clientes.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Empleados.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Clientesvb.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Empleados.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.frmmenu.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Clientes.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Clientes.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Altas.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Bajas.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Empleados.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Concepto.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Servicio.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Concepto.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Empleados.resources
+E:\Programacion\CBTis\DSAUPOO\SLE 1.0\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Servicio.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.vbproj.ResolveComReference.cache
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.exe
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.xml
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.pdb
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\bin\Debug\Lavanderia.exe
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\bin\Debug\Lavanderia.pdb
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\bin\Debug\Lavanderia.xml
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.ALTASConcepto.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Clientes.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Empleados.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.BAJASConcepto.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Clientesvb.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Empleados.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Clientes.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Concepto.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Empleados.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Servicio.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.frmmenu.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Altas.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Bajas.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Clientes.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Concepto.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Empleados.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Servicio.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Resources.resources
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALUMNO\Desktop\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.vbproj.ResolveComReference.cache
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.exe
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.xml
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.pdb
+E:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.exe
+E:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.pdb
+E:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.xml
+E:\Lavanderia\Lavanderia\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.ALTASConcepto.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Clientes.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Empleados.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.BAJASConcepto.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Clientesvb.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Empleados.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Clientes.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Concepto.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Empleados.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Servicio.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.frmmenu.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Altas.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Bajas.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Clientes.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Concepto.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Empleados.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Servicio.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Resources.resources
+E:\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.vbproj.ResolveComReference.cache
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.exe
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.xml
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.pdb
+D:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.exe
+D:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.pdb
+D:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.xml
+D:\Lavanderia\Lavanderia\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.ALTASConcepto.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Clientes.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Altas_Empleados.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.BAJASConcepto.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Clientesvb.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Bajas_Empleados.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Clientes.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Concepto.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Empleados.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Consultas_Servicio.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.frmmenu.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Altas.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.FrmServicio_Bajas.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Clientes.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Concepto.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Empleados.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Modificar_Servicio.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.Resources.resources
+D:\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lavanderia\Lavanderia\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.exe.manifest
+D:\Lavanderia\Lavanderia\bin\Debug\Lavanderia.application
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.exe.manifest
+D:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.application
+F:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.vbproj.ResolveComReference.cache
+F:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.exe
+F:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.xml
+F:\Lavanderia\Lavanderia\obj\x86\Debug\Lavanderia.pdb

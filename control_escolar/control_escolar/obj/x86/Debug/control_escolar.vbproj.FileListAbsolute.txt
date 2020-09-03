@@ -1,0 +1,129 @@
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlta_alumnos.resources
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.Resources.resources
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\bin\Debug\control_escolar.xml
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBarraInicio.resources
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmContraseña.resources
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmMenu.resources
+F:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\bin\Debug\control_escolar.xml
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlta_alumnos.resources
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBarraInicio.resources
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmContraseña.resources
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmMenu.resources
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\control_escolar.Resources.resources
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ \Nueva carpeta (4)\17.MENDIETA.CALVARIO.BELEN\PARCIAL II\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+E:\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+E:\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+E:\control_escolar\control_escolar\bin\Debug\control_escolar.xml
+E:\control_escolar\control_escolar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlta_alumnos.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBarraInicio.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmContraseña.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmMenu.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.Resources.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\bin\Debug\control_escolar.xml
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursos.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlta_alumnos.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBarraInicio.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmContraseña.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmMenu.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.Resources.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\bin\Debug\control_escolar.xml
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursos.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlta_alumnos.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBarraInicio.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmContraseña.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmMenu.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.Resources.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursar.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajas.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursar.resources
+F:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+F:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+F:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+F:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajas.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursar.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursarCursar.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursar.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmModificar.resources
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlumModif.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlumModif.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursarCursar.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmConsultasGralAlumnos.resources
+E:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmModificar.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursos.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlumModif.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajas.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursar.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursarCursar.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmConsultasGralAlumnos.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursar.resources
+E:\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmModificar.resources
+E:\dddd\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+E:\dddd\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+E:\dddd\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+E:\dddd\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.vbproj.ResolveComReference.cache
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.exe
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.xml
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.pdb
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\bin\Debug\control_escolar.xml
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursos.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlta_alumnos.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmAlumModif.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajas.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursar.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBajasCursarCursar.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmBarraInicio.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmConsultasGralAlumnos.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmContraseña.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmCursar.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmMenu.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.FrmModificar.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\control_escolar.Resources.resources
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Invitado\Desktop\control_escolar\control_escolar\obj\x86\Debug\GenerateResource.write.1.tlog

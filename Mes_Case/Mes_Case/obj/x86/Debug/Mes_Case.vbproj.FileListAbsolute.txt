@@ -1,0 +1,11 @@
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\bin\Debug\Mes_Case.exe
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\bin\Debug\Mes_Case.pdb
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\bin\Debug\Mes_Case.xml
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\Mes_Case.Form1.resources
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\Mes_Case.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\Mes_Case.exe
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\Mes_Case.xml
+D:\Programacion\CBTis\DSAUPOO\Mes_Case\Mes_Case\obj\x86\Debug\Mes_Case.pdb

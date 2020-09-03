@@ -1,0 +1,15 @@
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\bin\Debug\FRMPRINCIPAL.exe
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\bin\Debug\FRMPRINCIPAL.pdb
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\bin\Debug\FRMPRINCIPAL.xml
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.Form1.resources
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.Resources.resources
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.exe
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.xml
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.pdb
+C:\Users\Invitado\AppData\Local\Temporary Projects\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.FRM2.resources
+E:\Programacion\CBTis\DSAUPOO\FRMPRINCIPAL\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.exe
+E:\Programacion\CBTis\DSAUPOO\FRMPRINCIPAL\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.xml
+E:\Programacion\CBTis\DSAUPOO\FRMPRINCIPAL\FRMPRINCIPAL\obj\x86\Debug\FRMPRINCIPAL.pdb

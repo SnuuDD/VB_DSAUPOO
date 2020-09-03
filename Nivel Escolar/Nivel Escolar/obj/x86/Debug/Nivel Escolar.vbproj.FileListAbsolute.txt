@@ -1,0 +1,11 @@
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\bin\Debug\Nivel Escolar.exe
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\bin\Debug\Nivel Escolar.pdb
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\bin\Debug\Nivel Escolar.xml
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\Nivel_Escolar.Resources.resources
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\Nivel_Escolar.Nivel_Escolar.resources
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\Nivel Escolar.exe
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\Nivel Escolar.xml
+E:\Programacion\CBTis\DSAUPOO\Nivel Escolar\Nivel Escolar\obj\x86\Debug\Nivel Escolar.pdb

@@ -1,0 +1,21 @@
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\bin\Debug\Cuadrado de un numero.exe
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\bin\Debug\Cuadrado de un numero.pdb
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\bin\Debug\Cuadrado de un numero.xml
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\obj\Debug\Cuadrado_de_un_numero.Operaciones.resources
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\obj\Debug\Cuadrado_de_un_numero.Resources.resources
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\obj\Debug\Cuadrado de un numero.vbproj.GenerateResource.Cache
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\obj\Debug\Cuadrado de un numero.exe
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\obj\Debug\Cuadrado de un numero.xml
+C:\Users\equipo40-lc2\AppData\Local\Temporary Projects\Cuadrado de un numero\obj\Debug\Cuadrado de un numero.pdb
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\Cuadrado de un numero.exe
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\Cuadrado de un numero.xml
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\Cuadrado de un numero.pdb
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\bin\Debug\Cuadrado de un numero.exe
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\bin\Debug\Cuadrado de un numero.pdb
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\bin\Debug\Cuadrado de un numero.xml
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\Cuadrado_de_un_numero.Operaciones.resources
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\Cuadrado_de_un_numero.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Cuadrado de un numero\Cuadrado de un numero\obj\Debug\GenerateResource-ResGen.write.1.tlog

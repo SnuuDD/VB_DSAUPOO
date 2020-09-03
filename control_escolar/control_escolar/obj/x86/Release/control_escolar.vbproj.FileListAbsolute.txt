@@ -1,0 +1,19 @@
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.vbproj.ResolveComReference.cache
+E:\control_escolar\control_escolar\bin\Release\control_escolar.exe
+E:\control_escolar\control_escolar\bin\Release\control_escolar.pdb
+E:\control_escolar\control_escolar\bin\Release\control_escolar.xml
+E:\control_escolar\control_escolar\obj\x86\Release\ResolveAssemblyReference.cache
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.FrmAlta_alumnos.resources
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.FrmBarraInicio.resources
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.FrmContraseña.resources
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.FrmMenu.resources
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.Resources.resources
+E:\control_escolar\control_escolar\obj\x86\Release\GenerateResource.read.1.tlog
+E:\control_escolar\control_escolar\obj\x86\Release\GenerateResource.write.1.tlog
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.exe
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.xml
+E:\control_escolar\control_escolar\obj\x86\Release\control_escolar.pdb
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Release\control_escolar.vbproj.ResolveComReference.cache
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Release\control_escolar.exe
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Release\control_escolar.xml
+D:\ \Nueva carpeta (4)\control_escolar\control_escolar\obj\x86\Release\control_escolar.pdb

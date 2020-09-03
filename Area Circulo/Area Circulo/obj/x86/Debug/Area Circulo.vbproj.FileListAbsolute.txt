@@ -1,0 +1,17 @@
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\bin\Debug\Area Circulo.exe
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\bin\Debug\Area Circulo.pdb
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\bin\Debug\Area Circulo.xml
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area_Circulo.Frmarea.resources
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area_Circulo.Resources.resources
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.exe
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.xml
+E:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.pdb
+F:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.exe
+F:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.xml
+F:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.pdb
+D:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.exe
+D:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.xml
+D:\Programacion\CBTis\DSAUPOO\Area Circulo\Area Circulo\obj\x86\Debug\Area Circulo.pdb

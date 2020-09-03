@@ -1,0 +1,28 @@
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\bin\Debug\16. 6empleados.exe
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\bin\Debug\16. 6empleados.pdb
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\bin\Debug\16. 6empleados.xml
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\_16._6empleados.frmemplados.resources
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\_16._6empleados.Resources.resources
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.exe
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.xml
+D:\DSAUPOO\1 parcial\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.pdb
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.exe
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.xml
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.pdb
+D:\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.exe
+D:\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.xml
+D:\16. 6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.pdb
+E:\16. 6empleados\16. 6empleados\bin\Debug\16. 6empleados.exe
+E:\16. 6empleados\16. 6empleados\bin\Debug\16. 6empleados.pdb
+E:\16. 6empleados\16. 6empleados\bin\Debug\16. 6empleados.xml
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\_16._6empleados.frmemplados.resources
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\_16._6empleados.Resources.resources
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\16. 6empleados\16. 6empleados\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\CBTis\DSAUPOO\6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.exe
+E:\Programacion\CBTis\DSAUPOO\6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.xml
+E:\Programacion\CBTis\DSAUPOO\6empleados\16. 6empleados\obj\x86\Debug\16. 6empleados.pdb

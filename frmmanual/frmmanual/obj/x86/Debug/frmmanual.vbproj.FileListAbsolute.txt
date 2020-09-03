@@ -1,0 +1,15 @@
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\bin\Debug\frmmanual.exe
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\bin\Debug\frmmanual.pdb
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\bin\Debug\frmmanual.xml
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.Form1.resources
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.exe
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.xml
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.pdb
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.ticket.resources
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.TiendaP.resources
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.Contraseña.resources
+D:\Programacion\CBTis\DSAUPOO\frmmanual\frmmanual\obj\x86\Debug\frmmanual.Form2.resources

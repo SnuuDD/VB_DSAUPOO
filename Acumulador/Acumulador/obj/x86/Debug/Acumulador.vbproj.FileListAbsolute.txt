@@ -1,0 +1,14 @@
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\bin\Debug\Acumulador.exe
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\bin\Debug\Acumulador.pdb
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\bin\Debug\Acumulador.xml
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.frmacumulador.resources
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.exe
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.xml
+D:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.pdb
+E:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.exe
+E:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.xml
+E:\Programacion\CBTis\DSAUPOO\Acumulador\Acumulador\obj\x86\Debug\Acumulador.pdb

@@ -1,0 +1,17 @@
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\bin\Debug\If Simple.exe
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\bin\Debug\If Simple.pdb
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\bin\Debug\If Simple.xml
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If_Simple.If_Simple.resources
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If_Simple.Resources.resources
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.exe
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.xml
+F:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.pdb
+E:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.exe
+E:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.xml
+E:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.pdb
+D:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.exe
+D:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.xml
+D:\Programacion\CBTis\DSAUPOO\If Anidado\If Simple\obj\x86\Debug\If Simple.pdb

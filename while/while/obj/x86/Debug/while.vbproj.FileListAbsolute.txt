@@ -1,0 +1,14 @@
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\bin\Debug\while.exe
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\bin\Debug\while.pdb
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\bin\Debug\while.xml
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\while.Form1.resources
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\while.Resources.resources
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\while.exe
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\while.xml
+C:\Users\ALUMNO\AppData\Local\Temporary Projects\while\obj\x86\Debug\while.pdb
+E:\Programacion\CBTis\DSAUPOO\while\while\obj\x86\Debug\while.exe
+E:\Programacion\CBTis\DSAUPOO\while\while\obj\x86\Debug\while.xml
+E:\Programacion\CBTis\DSAUPOO\while\while\obj\x86\Debug\while.pdb

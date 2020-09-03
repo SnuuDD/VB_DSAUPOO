@@ -1,0 +1,14 @@
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia_Case.Form1.resources
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia_Case.Resources.resources
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\bin\Debug\Sentencia Case.exe
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\bin\Debug\Sentencia Case.pdb
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\bin\Debug\Sentencia Case.xml
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia Case.exe
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia Case.xml
+D:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia Case.pdb
+E:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia Case.exe
+E:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia Case.xml
+E:\Programacion\CBTis\DSAUPOO\Sentencia Case\Sentencia Case\obj\x86\Debug\Sentencia Case.pdb

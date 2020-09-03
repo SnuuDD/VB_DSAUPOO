@@ -1,0 +1,23 @@
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\bin\Debug\Desc Desglo.exe
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\bin\Debug\Desc Desglo.pdb
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\bin\Debug\Desc Desglo.xml
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc_Desglo.Desc_Desglo.resources
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc_Desglo.Resources.resources
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.exe
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.xml
+E:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.pdb
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.exe
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.xml
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.pdb
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\bin\Debug\Desc Desglo.exe
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\bin\Debug\Desc Desglo.pdb
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\bin\Debug\Desc Desglo.xml
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc_Desglo.Desc_Desglo.resources
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc_Desglo.Resources.resources
+G:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.vbproj.GenerateResource.Cache
+F:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.exe
+F:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.xml
+F:\Programacion\CBTis\DSAUPOO\Desc Desglo\Desc Desglo\obj\x86\Debug\Desc Desglo.pdb
